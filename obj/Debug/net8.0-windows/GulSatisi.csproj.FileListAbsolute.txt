@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\bin\Debug\net8.0-windows\GulSatisi.exe
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\bin\Debug\net8.0-windows\GulSatisi.deps.json
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\bin\Debug\net8.0-windows\GulSatisi.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\bin\Debug\net8.0-windows\GulSatisi.dll
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\bin\Debug\net8.0-windows\GulSatisi.pdb
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\obj\Debug\net8.0-windows\GulSatisi.Form1.resources
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\obj\Debug\net8.0-windows\GulSatisi.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\obj\Debug\net8.0-windows\GulSatisi.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\obj\Debug\net8.0-windows\GulSatisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\obj\Debug\net8.0-windows\GulSatisi.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\obj\Debug\net8.0-windows\GulSatisi.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\obj\Debug\net8.0-windows\GulSatisi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\obj\Debug\net8.0-windows\GulSatisi.dll
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\obj\Debug\net8.0-windows\refint\GulSatisi.dll
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\obj\Debug\net8.0-windows\GulSatisi.pdb
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\obj\Debug\net8.0-windows\GulSatisi.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\GulSatisi\GulSatisi\obj\Debug\net8.0-windows\ref\GulSatisi.dll
